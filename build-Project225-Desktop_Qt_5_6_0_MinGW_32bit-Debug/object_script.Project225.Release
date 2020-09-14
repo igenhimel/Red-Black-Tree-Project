@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\rbtree.o
+./release\node.o
+./release\mydialog.o
+./release\playdialog.o
+./release\helpdialog.o
+./release\moc_rbtree.o
+./release\moc_mydialog.o
+./release\moc_playdialog.o
+./release\moc_helpdialog.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\rbtree.o
+./debug\node.o
+./debug\mydialog.o
+./debug\playdialog.o
+./debug\helpdialog.o
+./debug\moc_rbtree.o
+./debug\moc_mydialog.o
+./debug\moc_playdialog.o
+./debug\moc_helpdialog.o
+);
